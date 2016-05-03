@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sermonidiquinto01serggoog_0184.png"; bbox 0 0 923 1335; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 861 239 875 593">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 861 186 875 593">
+     <span class='ocr_line' id='line_1_1' title="bbox 861 239 875 593; baseline -135.667 135.667"><span class='ocrx_word' id='word_1_1' title='bbox 865 239 875 306; x_wconf 50' lang='lat' dir='ltr'>afwa?</span> <span class='ocrx_word' id='word_1_2' title='bbox 864 312 873 388; x_wconf 49' lang='grc' dir='ltr'>ἑνικὴ).</span> <span class='ocrx_word' id='word_1_3' title='bbox 862 399 874 526; x_wconf 44' lang='lat' dir='ltr'>§vua-Cpr</span> <span class='ocrx_word' id='word_1_4' title='bbox 862 532 868 551; x_wconf 56' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_5' title='bbox 862 557 868 562; x_wconf 54' lang='grc'><em>»</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 861 568 865 593; x_wconf 61' lang='grc' dir='ltr'>τι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 923 1335">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 923 1335">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 923 1335"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 923 1335; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
